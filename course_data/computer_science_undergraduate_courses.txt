@@ -1,0 +1,66 @@
+These are the courses offered by ASU for the first and second years of bachelors in computer science
+**First Year:**
+
+1. **CSE 110 - Introduction to Computer Science**
+   - Overview of computer science fundamentals
+   - Introduction to programming using Python
+   - Basic data structures and algorithms
+
+2. **MAT 170 - Discrete Mathematics for Computer Scientists**
+   - Logic, sets, and functions
+   - Proof techniques and mathematical reasoning
+   - Combinatorics and discrete structures
+
+3. **CSE 120 - Computer Systems and Assembly Language**
+   - Computer architecture fundamentals
+   - Introduction to assembly language programming
+   - Memory hierarchy and system components
+
+4. **MAT 265 - Calculus I**
+   - Limits, derivatives, and applications
+   - Introduction to integration
+   - Techniques of differentiation
+
+5. **ENG 101 - General Education Elective: Writing and Critical Inquiry**
+   - Development of writing and communication skills
+   - Analytical thinking and critical reasoning
+
+6. **CSE 205 - Introduction to Data Structures and Algorithms**
+   - Advanced data structures: arrays, linked lists, stacks, and queues
+   - Algorithm design and analysis techniques
+   - Recursion and sorting algorithms
+
+**Second Year:**
+
+1. **CSE 205 - Object-Oriented Programming**
+   - Principles of object-oriented programming
+   - Classes, objects, inheritance, and polymorphism
+   - Software design patterns
+
+2. **MAT 243 - Linear Algebra for Engineers**
+   - Vectors and vector spaces
+   - Matrices, linear transformations, and eigenvectors
+   - Applications in computer graphics and machine learning
+
+3. **CSE 310 - Computer Networks and Communications**
+   - Network architecture and protocols
+   - OSI and TCP/IP models
+   - Network security and basic cryptography
+
+4. **CSE 330 - Database Management Systems**
+   - Relational database concepts
+   - SQL query language and database design
+   - Database normalization and transaction management
+
+5. **MAT 266 - Calculus II**
+   - Integration techniques
+   - Applications of integration
+   - Sequences, series, and convergence
+
+6. **CSE 360 - Introduction to Software Engineering**
+   - Software development life cycle
+   - Requirements gathering and specification
+   - Version control and collaborative development
+
+7. **Natural Sciences Elective: General Education**
+   - Science course exploring the natural world (e.g., physics, chemistry, biology)
